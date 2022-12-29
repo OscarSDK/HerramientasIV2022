@@ -11,6 +11,7 @@ public class HIV2022 {
         int z = 7;
         int suma = x + y + z;
         System.out.println("La suma es:"+suma);
+        System.out.println("JOSE LUIS");
         
     }
     
