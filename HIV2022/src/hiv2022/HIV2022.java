@@ -21,6 +21,9 @@ public class HIV2022 {
         
         System.out.println("Daniel Lizárraga");
         System.out.println("Posho a la brasa");
+        
+        System.out.println("Cesar Augusto Choque Arapa");
+        System.out.println("Lechon al Horno");
     }
     
 }
