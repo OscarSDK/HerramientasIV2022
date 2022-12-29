@@ -18,6 +18,8 @@ public class HIV2022 {
         /*Plato favorito*/
         System.out.println("");
         
+        System.out.println("Daniel Lizárraga");
+        System.out.println("Posho a la brasa");
     }
     
 }
