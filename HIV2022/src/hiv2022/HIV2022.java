@@ -14,9 +14,10 @@ public class HIV2022 {
  
         
         /*Nombre*/
-        System.out.println("");
+        System.out.println("JOSE LUIS");
+        
         /*Plato favorito*/
-        System.out.println("");
+        System.out.println("Lentejita con Pescado");
         
         System.out.println("Daniel Lizárraga");
         System.out.println("Posho a la brasa");
